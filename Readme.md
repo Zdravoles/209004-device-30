@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Максим Смагин](https://up.htmlacademy.ru/htmlcss/30/user/209004).
-* Наставник: [Инна](https://htmlacademy.ru/profile/id43485).
+* Наставник: [Инна Кришталь](https://htmlacademy.ru/profile/id43485).
 
 ---
 
